@@ -7,7 +7,7 @@ Main lab files for class: [LINK] (**already loaded** in the VM)
 - links
 - links
 
-The virtual machine already has:
+The virtual machine **already has**:
 
 - Windows 10 operating system
 - SQL Server 2019 installed from 
