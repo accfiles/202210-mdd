@@ -16,6 +16,6 @@ The virtual machine already has:
 - SQL Server Data Tools (SSDT) for Visual Studio 2017 version 15.9.8 installed from 
 - Report Builder version 15.0.19440.0 installed from 
 - Database files:
-- AdventureWorks2014 Full Database Backup: AdvWorks2014FullDBBackup.zip
-- AdventureWorksDW2014 Full Database Backup: AdvWorksDW2014FullDBBackup.zip
-- Microsoft Northwind database: Northwind.zip
+    - AdventureWorks2014 Full Database Backup: AdvWorks2014FullDBBackup.zip
+    - AdventureWorksDW2014 Full Database Backup: AdvWorksDW2014FullDBBackup.zip
+    - Microsoft Northwind database: Northwind.zip
