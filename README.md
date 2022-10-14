@@ -2,7 +2,7 @@
 
 
 
-SQL Server 2019 installer:
+Main lab files for class: [LINK] (**already loaded** in the VM)
 
 - links
 - links
