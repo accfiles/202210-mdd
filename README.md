@@ -1,6 +1,8 @@
 ## Files for "Introduction to SQL for Report Writers and Analysts" on October 17-18 are available here: 
 
 
+Initial Database Setup scripts (unzip this file inside a folder at "C:\Classfiles\T-SQL", so it creates a folder at "C:\Classfiles\T-SQL\Initial Database Setup"
+- https://lib.accelebrate.com/202210_MDD/setup/Initial-Database-Setup.zip
 
 Main lab files for class: [LINK] (**already loaded** in the VM)
 
