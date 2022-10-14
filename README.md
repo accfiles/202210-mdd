@@ -3,6 +3,8 @@
 
 Initial Database Setup scripts (unzip this file inside a folder at "C:\Classfiles\T-SQL", so it creates a folder at "C:\Classfiles\T-SQL\Initial Database Setup"
 - https://lib.accelebrate.com/202210_MDD/setup/Initial-Database-Setup.zip
+- https://lib.accelebrate.com/202210_MDD/setup/Initial%20Database%20Setup-mod1.zip
+
 
 Main lab files for class: [LINK] (**already loaded** in the VM)
 
