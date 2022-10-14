@@ -1,5 +1,6 @@
-# 2210-mdd links and files
-## 2210-mdd links and files
+## Files for *Introduction to SQL* on October 17-18 are available here: 
+
+
 
 SQL Server 2019 installer:
 
