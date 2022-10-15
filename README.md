@@ -5,5 +5,6 @@ Initial Database Setup scripts (unzip this file inside a folder at "C:\Classfile
 - https://lib.accelebrate.com/202210_MDD/setup/Initial-Database-Setup.zip
 - https://lib.accelebrate.com/202210_MDD/setup/Initial%20Database%20Setup-mod1.zip
 - https://lib.accelebrate.com/202210_MDD/setup/Initial%20Database%20Setup-mod2.zip
+- https://lib.accelebrate.com/202210_MDD/setup/Classfiles-T-SQL.zip
 
 
